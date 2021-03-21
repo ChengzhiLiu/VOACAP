@@ -1,0 +1,13 @@
+RH50/50/30
+ 8     8 parameters
+  0.00  [ 1] Max Gain dBi
+   7    [ 2] Antenna Type
+   4    [ 3] Ground Dielectric Constant (1-80)
+0.01000 [ 4] Ground Conductivity (.00003-5.0 mhos/m)
+ 9.585  [ 5] Operating Freq
+ 50.00  [ 6] Rhombus side length (400m maximum)
+ 30.00  [ 7] Height above ground (99m maximum)
+ 50.00  [ 8] Rhombus interior half-obtuse angle (degrees)
+D_Gains =   0.00  8.13  8.86 11.05 12.27 13.92 15.45 16.30 16.99 17.49
+D_Gains =  17.96 18.08 18.02 17.66 17.14 16.45 15.21 13.70 11.50 10.28
+D_Gains =  10.72 11.20 11.62 12.17 12.88 13.41 13.96 14.39 14.61 14.79

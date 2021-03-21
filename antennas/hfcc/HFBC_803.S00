@@ -1,0 +1,17 @@
+LPH17/55/2.4/32.15/0.88/33.6/300
+12    12 parameters
+  0.00  [ 1] Max Gain dBi
+   5    [ 2] Antenna Type
+   4    [ 3] Ground Dielectric Constant (1-80)
+0.01000 [ 4] Ground Conductivity (.00003-5.0 mhos/m)
+10.000  [ 5] Operating Freq
+  17    [ 6] # Elements (30 maximum)
+   1.8  [ 7] Shortest Element total length (meters)
+  67.2  [ 8] Longest  Element total length (meters)
+  55.0  [ 9] Distance bet centers Shortest-Longest (meters)
+   2.40 [10] Shortest element height above ground (m)
+  32.15 [11] Longest  element height above ground (m)
+ 300.0  [12] Feeder Impedance (999 Ohm maximum)
+D_Gains =   0.00  8.76  8.30  8.60  8.44  7.97  9.74  8.83  8.37  8.11
+D_Gains =   9.50  7.48  9.57  8.51  7.24  8.79  9.86  7.32  7.13  8.57
+D_Gains =   9.87  8.15  6.67  7.07  8.42  9.62  9.11  7.34  6.65  7.01

@@ -1,0 +1,14 @@
+CT2/1/.5
+10    10 parameters
+  0.00  [ 1] Max Gain dBi
+   4    [ 2] Antenna Type
+   4    [ 3] Ground Dielectric Constant (1-80)
+0.01000 [ 4] Ground Conductivity (.00003-5.0 mhos/m)
+10.000  [ 5] Operating Freq
+   2    [ 6] Elements in same ROW (1-9)
+   1    [ 7] # Elements in same STACK (1-9)
+10.000  [ 8] Design    Freq
+  0.50  [ 9] Height above ground (0.10-9.99 wavelengths)
+   0    [10] Slew Angle (+/-30 degrees)
+             8.36  10.14  11.58 Max gain @  2MHz
+             7.35   9.24  10.81 Max gain @ 30MHz

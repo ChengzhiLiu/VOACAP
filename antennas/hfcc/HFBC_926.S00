@@ -1,0 +1,11 @@
+HQ1/0.5
+ 7     7 parameters
+  0.00  [ 1] Max Gain dBi
+   8    [ 2] Antenna Type
+   4    [ 3] Ground Dielectric Constant (1-80)
+0.01000 [ 4] Ground Conductivity (.00003-5.0 mhos/m)
+10.000  [ 5] Operating Freq
+10.000  [ 6] Design    Freq
+  0.50  [ 7] Height above ground (0.10-9.99 wavelengths)
+             7.10   7.10   7.10 Max gain @  2MHz
+            12.08  12.08  12.08 Max gain @ 30MHz
