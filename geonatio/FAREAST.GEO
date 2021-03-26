@@ -51,6 +51,8 @@ ANSHUN                             CHINA   26 15 N  105 58 E
 ANXI                               CHINA   40 30 N   96 00 E
 ANYANG (ZHANGDE)                   CHINA   36 01 N  114 25 E
 BAODING                            CHINA   38 47 N  115 30 E
+BAOJI 722                          CHINA   34 42 N  106 57 E
+BAOJI 724                          CHINA   34 27 N  107 42 E
 BAOTOU                             CHINA   40 38 N  110 00 E
 BEI'AN                             CHINA   48 16 N  126 29 E
 BENGBU                             CHINA   32 47 N  117 23 E
@@ -65,6 +67,7 @@ CHENGDU                            CHINA   30 45 N  104 04 E
 CHUNGKING (CHONGQING)              CHINA   29 34 N  106 27 E
 DATONG                             CHINA   40 09 N  113 17 E
 DENGKOU (BAYAN GOL)                CHINA   40 25 N  106 59 E
+DONGFANG 871                       CHINA   18 53 N  108 40 E
 DUKOU                              CHINA   26 31 N  101 44 E
 DULAN (QAGAN US)                   CHINA   36 29 N   98 29 E
 DUSHAN                             CHINA   25 55 N  107 36 E
@@ -78,6 +81,7 @@ FUYUN (KOKTOKAY)                   CHINA   47 13 N   89 39 E
 FUZHOU                             CHINA   26 10 N  119 20 E
 GANZHOU                            CHINA   25 49 N  114 56 E
 GOLMUD                             CHINA   36 52 N   94 58 E
+GOLMUD 916                         CHINA   36 25 N   95 00 E
 GUANGYUAN                          CHINA   32 27 N  105 55 E
 GUILIN                             CHINA   25 21 N  110 15 E
 GUIYANG                            CHINA   26 38 N  106 43 E
@@ -90,6 +94,7 @@ HEFEI                              CHINA   31 47 N  117 15 E
 HEGANG                             CHINA   47 20 N  130 12 E
 HENGYANG                           CHINA   26 56 N  112 35 E
 HOHHOT                             CHINA   40 51 N  111 38 E
+HOHHOT 694                         CHINA   40 48 N  111 12 E
 HORQIN YOUYI QIANQI (ULAN HOT)     CHINA   46 04 N  122 00 E
 HOTAN                              CHINA   37 07 N   79 55 E
 HUAINAN                            CHINA   32 32 N  116 59 E
@@ -98,6 +103,7 @@ JIAMUSI                            CHINA   46 49 N  130 21 E
 JILIN                              CHINA   43 51 N  126 33 E
 JINAN (TSINAN)                     CHINA   36 35 N  117 00 E
 JINGDEZHEN                         CHINA   29 18 N  117 18 E
+JINHUA 831                         CHINA   29 07 N  119 19 E
 JINING                             CHINA   37 26 N  116 36 E
 JINING                             CHINA   41 02 N  113 07 E
 JINZHOU                            CHINA   41 09 N  121 08 E
@@ -107,12 +113,15 @@ JIXI                               CHINA   45 15 N  130 55 E
 KAIFENG                            CHINA   34 45 N  114 25 E
 KARAMAY                            CHINA   45 30 N   84 55 E
 KASHI                              CHINA   39 29 N   75 58 E
+KASHI 2022                         CHINA   39 21 N   75 46 E
 KORLA                              CHINA   41 44 N   86 09 E
 KUNMING                            CHINA   25 08 N  102 43 E
+KUNMING 501                        CHINA   24 53 N  102 30 E
 KUQA                               CHINA   41 43 N   82 57 E
 LANZHOU                            CHINA   36 03 N  103 41 E
 LIANYUNGANG (XINPU)                CHINA   34 34 N  119 15 E
 LIAOYUAN                           CHINA   42 55 N  125 09 E
+LINGSHI 725                        CHINA   36 51 N  111 52 E
 LIUZHOU                            CHINA   24 22 N  109 20 E
 LUDA (DAIRAN)                      CHINA   38 55 N  121 39 E
 LUOYANG                            CHINA   34 41 N  112 25 E
@@ -127,13 +136,18 @@ NANCHANG                           CHINA   28 40 N  115 58 E
 NANCHONG                           CHINA   30 47 N  106 03 E
 NANKING (NANJING)                  CHINA   31 59 N  118 51 E
 NANNING                            CHINA   20 50 N  108 18 E
+NANNING 954                        CHINA   22 47 N  108 12 E
 NANYANG                            CHINA   32 56 N  112 32 E
 NANZHANG                           CHINA   31 45 N  111 53 E
 NEIJIANG                           CHINA   29 38 N  104 58 E
 PEKING (BEIJING)                   CHINA   39 55 N  116 23 E
+PEKING (BEIJING) 491               CHINA   39 53 N  116 35 E
+PEKING (BEIJING) 564               CHINA   39 38 N  116 06 E
+PEKING (BEIJING) 572               CHINA   39 45 N  116 49 E
 PINGLUO                            CHINA   38 56 N  106 34 E
 QIEMO (QARQAN)                     CHINA   38 08 N   85 32 E
 QIQIHAR                            CHINA   47 21 N  123 58 E
+QIQIHAR 2021                       CHINA   47 21 N  124 15 E
 QITAI                              CHINA   44 01 N   89 28 E
 QUANZHOU                           CHINA   24 57 N  118 35 E
 RUOQIANG (QARKILIK)                CHINA   39 02 N   88 00 E
@@ -144,6 +158,7 @@ SHAOGUAN                           CHINA   24 57 N  113 34 E
 SHAOYANG                           CHINA   27 13 N  111 31 E
 SHASHI                             CHINA   30 22 N  112 11 E
 SHIJIAZHUANG                       CHINA   38 00 N  114 30 E
+SHIJIAZHUANG 951                   CHINA   38 13 N  114 06 E
 SHUANGYASHAN                       CHINA   46 37 N  131 10 E
 SIPING                             CHINA   43 11 N  124 24 E
 TACHENG (QOQEK)                    CHINA   46 45 N   82 57 E
@@ -154,6 +169,7 @@ TONGLIAO                           CHINA   43 37 N  122 15 E
 TSINGTAO (QINGDAO)                 CHINA   36 05 N  120 21 E
 TURPAN                             CHINA   42 56 N   89 10 E
 URUMQI                             CHINA   43 48 N   87 35 E
+URUMQI 654                         CHINA   44 09 N   86 54 E
 USU                                CHINA   44 27 N   84 37 E
 WANXIAN                            CHINA   30 48 N  108 21 E
 WEITANG                            CHINA   36 43 N  119 06 E
@@ -168,6 +184,7 @@ XI'AN                              CHINA   34 15 N  108 50 E
 XIAMEM                             CHINA   24 32 N  118 06 E
 XIANGFAN                           CHINA   32 03 N  112 05 E
 XIANGTAN                           CHINA   27 54 N  112 55 E
+XIANYANG 594                       CHINA   34 23 N  108 37 E
 XICHANG                            CHINA   27 52 N  102 15 E
 XINGTAI                            CHINA   37 00 N  114 30 E
 XUZHOU                             CHINA   34 12 N  117 13 E
@@ -359,6 +376,7 @@ TOKYO                              JAPAN   35 40 N  139 46 E
 UTSUNOMIYA                         JAPAN   36 33 N  139 52 E
 WAKAYAMA                           JAPAN   34 13 N  135 11 E
 WAKKANAI                           JAPAN   45 25 N  141 40 E
+YAMATA                             JAPAN   36 10 N  139 49 E
 YOKOHAMA                           JAPAN   35 27 N  139 39 E
 YOKOSUKA                           JAPAN   35 18 N  139 40 E
 LOUANGPHRABANG                      LAOS   19 52 N  102 08 E
@@ -436,6 +454,7 @@ TACLOBAN                     PHILIPPINES   11 15 N  125 00 E
 TARLAC                       PHILIPPINES   15 29 N  120 35 E
 TUGUEGARAO                   PHILIPPINES   17 37 N  121 44 E
 ZAMBOANGA                    PHILIPPINES   06 54 N  122 04 E
+KRANJI                         SINGAPORE   01 25 N  103 44 E
 SINGAPORE (SINGAPURA)          SINGAPORE   01 17 N  103 51 E
 TAEGU                        SOUGH KOREA   35 52 N  128 36 E
 INCH'ON                      SOUTH KOREA   37 28 N  126 38 E

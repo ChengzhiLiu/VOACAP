@@ -93,6 +93,7 @@ TURKESTAN                     KAZAKHSTAN   43 18 N   68 15 E
 URALSK                        KAZAKHSTAN   51 14 N   51 22 E
 UST-KAMENOGORSK               KAZAKHSTAN   49 58 N   82 38 E
 AL KUWAYT                         KUWAIT   29 20 N   47 59 E
+KUWAIT                            KUWAIT   29 30 N   47 40 E
 FRUNZE                        KYRGYZSTAN   42 54 N   74 36 E
 DAUGAVPILS                        LATVIA   55 53 N   26 32 E
 LIEPAJA                           LATVIA   56 35 N   21 01 E

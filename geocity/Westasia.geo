@@ -181,6 +181,7 @@ KRASNOVODSK                 TURKMENISTAN   40 00 N   53 00 E
 KURGAN                        TAJIKISTAN   55 26 N   68 18 E
 KURSK                             RUSSIA   51 42 N   36 12 E
 KUSTANAJ                      KAZAKHSTAN   53 10 N   63 35 E
+KUWAIT                            KUWAIT   29 30 N   47 40 E
 KUYBYSHEV (KUJBYSEV)              RUSSIA   53 12 N   50 09 E
 KYZYL                             RUSSIA   51 42 N   94 27 E
 KZYL-ORDA                     KAZAKHSTAN   44 48 N   65 28 E

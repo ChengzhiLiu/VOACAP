@@ -40,6 +40,8 @@ BANGALORE                          INDIA   12 58 N   77 36 E
 BANGKOK (KRUNG THEP)            THAILAND   13 45 N  100 31 E
 BANJARMARSIN                   INDONESIA   03 20 S  114 35 E
 BAODING                            CHINA   38 47 N  115 30 E
+BAOJI 722                          CHINA   34 42 N  106 57 E
+BAOJI 724                          CHINA   34 27 N  107 42 E
 BAOTOU                             CHINA   40 38 N  110 00 E
 BAREILLY                           INDIA   28 25 N   79 23 E
 BARGA                     {TIBET}  CHINA   30 48 N   81 17 E
@@ -102,6 +104,7 @@ DERA GHAZI KHAN                 PAKISTAN   30 03 N   70 38 E
 DHULE                              INDIA   20 54 N   74 47 E
 DIBRUGARH                          INDIA   27 29 N   94 54 E
 DIPOLOG                      PHILIPPINES   08 35 N  123 20 E
+DONGFANG 871                       CHINA   18 53 N  108 40 E
 DUKOU                              CHINA   26 31 N  101 44 E
 DULAN (QAGAN US)                   CHINA   36 29 N   98 29 E
 DUSHAN                             CHINA   25 55 N  107 36 E
@@ -129,6 +132,7 @@ GHAZNI                       AFGHANISTAN   33 33 N   68 26 E
 GILGET                          PAKISTAN   35 55 N   74 18 E
 GITU                               JAPAN
 GOLMUD                             CHINA   36 52 N   94 58 E
+GOLMUD 916                         CHINA   36 25 N   95 00 E
 GORAKHPUR                          INDIA   26 45 N   83 22 E
 GUANGYUAN                          CHINA   32 27 N  105 55 E
 GUILIN                             CHINA   25 21 N  110 15 E
@@ -155,6 +159,7 @@ HENZADA                            BURMA   17 38 N   95 28 E
 HERAT                        AFGHANISTAN   34 20 N   62 12 E
 HIROSHIMA                          JAPAN   34 24 N  132 27 E
 HOHHOT                             CHINA   40 51 N  111 38 E
+HOHHOT 694                         CHINA   40 48 N  111 12 E
 HORQIN YOUYI QIANQI (ULAN HOT)     CHINA   46 04 N  122 00 E
 HOTAN                              CHINA   37 07 N   79 55 E
 HOWRAH                             INDIA   22 35 N   88 20 E
@@ -185,6 +190,7 @@ JIAMUSI                            CHINA   46 49 N  130 21 E
 JILIN                              CHINA   43 51 N  126 33 E
 JINAN (TSINAN)                     CHINA   36 35 N  117 00 E
 JINGDEZHEN                         CHINA   29 18 N  117 18 E
+JINHUA 831                         CHINA   29 07 N  119 19 E
 JINING                             CHINA   37 26 N  116 36 E
 JINING                             CHINA   41 02 N  113 07 E
 JINZHOU                            CHINA   41 09 N  121 08 E
@@ -209,6 +215,7 @@ KAOHSIUNG                         TAIWAN   22 38 N  120 17 E
 KARACHI                         PAKISTAN   24 52 N   67 03 E
 KARAMAY                            CHINA   45 30 N   84 55 E
 KASHI                              CHINA   39 29 N   75 58 E
+KASHI 2022                         CHINA   39 21 N   75 46 E
 KATHMANDU                          NEPAL   27 42 N   85 20 E
 KAWASAKI                           JAPAN   35 32 N  139 43 E
 KEELUNG                           TAIWAN   25 08 N  121 44 E
@@ -223,11 +230,13 @@ KOTA                               INDIA   25 16 N   75 55 E
 KOTA BAHARU                     MALAYSIA   06 08 N  102 15 E
 KOTA KINABALU                   MALAYSIA   05 59 N  116 04 E
 KRACHEH                         CAMBODIA   12 29 N  106 01 E
+KRANJI                         SINGAPORE   01 25 N  103 44 E
 KUALA LUMPUR                    MALAYSIA   03 09 N  101 43 E
 KUALA TERENGGANU                MALAYSIA   05 20 N  103 08 E
 KUANTAN                         MALAYSIA   03 48 N  103 20 E
 KUCHING                         MALAYSIA   01 33 N  110 20 E
 KUNMING                            CHINA   25 08 N  102 43 E
+KUNMING 501                        CHINA   24 53 N  102 30 E
 KUPANG                         INDONESIA   10 10 S  123 35 E
 KUQA                               CHINA   41 43 N   82 57 E
 KURNOOL                            INDIA   15 50 N   78 03 E
@@ -245,6 +254,7 @@ LHASA                     {TIBET}  CHINA   29 42 N   91 07 E
 LIANYUNGANG (XINPU)                CHINA   34 34 N  119 15 E
 LIAOYUAN                           CHINA   42 55 N  125 09 E
 LINGAYEN                     PHILIPPINES   16 01 N  120 14 E
+LINGSHI 725                        CHINA   36 51 N  111 52 E
 LIUZHOU                            CHINA   24 22 N  109 20 E
 LOUANGPHRABANG                      LAOS   19 52 N  102 08 E
 LUCKNOW                            INDIA   26 51 N   80 55 E
@@ -301,6 +311,7 @@ NANCHANG                           CHINA   28 40 N  115 58 E
 NANCHONG                           CHINA   30 47 N  106 03 E
 NANKING (NANJING)                  CHINA   31 59 N  118 51 E
 NANNING                            CHINA   20 50 N  108 18 E
+NANNING 954                        CHINA   22 47 N  108 12 E
 NANYANG                            CHINA   32 56 N  112 32 E
 NANZHANG                           CHINA   31 45 N  111 53 E
 NEDONG                    {TIBET}  CHINA   29 14 N   91 46 E
@@ -326,6 +337,9 @@ PASNI                           PAKISTAN   25 16 N   63 28 E
 PATNA                              INDIA   25 36 N   85 07 E
 PEGU                               BURMA   17 30 N   96 30 E
 PEKING (BEIJING)                   CHINA   39 55 N  116 23 E
+PEKING (BEIJING) 491               CHINA   39 53 N  116 35 E
+PEKING (BEIJING) 564               CHINA   39 38 N  116 06 E
+PEKING (BEIJING) 572               CHINA   39 45 N  116 49 E
 PEMATANGSIANTAR                INDONESIA   02 57 N   99 03 E
 PESHAWAR                        PAKISTAN   34 01 N   71 33 E
 PHITSANULOK                     THAILAND   16 49 N  100 15 E
@@ -343,6 +357,7 @@ QAMDO                     {TIBET}  CHINA   31 15 N   97 12 E
 QANDAHAR                     AFGHANISTAN   31 35 N   65 46 E
 QIEMO (QARQAN)                     CHINA   38 08 N   85 32 E
 QIQIHAR                            CHINA   47 21 N  123 58 E
+QIQIHAR 2021                       CHINA   47 21 N  124 15 E
 QITAI                              CHINA   44 01 N   89 28 E
 QONDUZ                       AFGHANISTAN   36 45 N   68 51 E
 QUANZHOU                           CHINA   24 57 N  118 35 E
@@ -382,6 +397,7 @@ SHAOYANG                           CHINA   27 13 N  111 31 E
 SHASHI                             CHINA   30 22 N  112 11 E
 SHEBERGHAN                   AFGHANISTAN   36 41 N   65 45 E
 SHIJIAZHUANG                       CHINA   38 00 N  114 30 E
+SHIJIAZHUANG 951                   CHINA   38 13 N  114 06 E
 SHILLONG                           INDIA   25 34 N   91 53 E
 SHIMOGA                            INDIA   13 55 N   75 34 E
 SHIQUANHE                 {TIBET}  CHINA   32 24 N   79 52 E
@@ -444,6 +460,7 @@ UJJAIN                             INDIA   23 11 N   75 46 E
 UJUNG PANDANG (MAKASAR)        INDONESIA   05 07 S  119 24 E
 ULAANBAATAR (ULAN-BATOR)        MONGOLIA   47 55 N  106 53 E
 URUMQI                             CHINA   43 48 N   87 35 E
+URUMQI 654                         CHINA   44 09 N   86 54 E
 USU                                CHINA   44 27 N   84 37 E
 UTSUNOMIYA                         JAPAN   36 33 N  139 52 E
 VADODARA                           INDIA   22 18 N   73 12 E
@@ -470,11 +487,13 @@ XI'AN                              CHINA   34 15 N  108 50 E
 XIAMEM                             CHINA   24 32 N  118 06 E
 XIANGFAN                           CHINA   32 03 N  112 05 E
 XIANGTAN                           CHINA   27 54 N  112 55 E
+XIANYANG 594                       CHINA   34 23 N  108 37 E
 XICHANG                            CHINA   27 52 N  102 15 E
 XIGAZE                    {TIBET}  CHINA   29 15 N   88 52 E
 XINGTAI                            CHINA   37 00 N  114 30 E
 XUZHOU                             CHINA   34 12 N  117 13 E
 YA'AN                              CHINA   30 00 N  102 57 E
+YAMATA                             JAPAN   36 10 N  139 49 E
 YANQI                              CHINA   42 04 N   86 34 E
 YANTAI                             CHINA   37 28 N  121 24 E
 YAXIAN (SANYA)                     CHINA   18 27 N  109 28 E
